@@ -1,6 +1,3 @@
 <resources>
     <string name="app_name">Medical</string>
-    <string name="title_activity_second">SecondActivity</string>
-    <string name="title_activity_main_selection">MainSelection</string>
-    <string name="title_activity_second_main">SecondMain</string>
 </resources>
